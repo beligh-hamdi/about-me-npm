@@ -1,6 +1,6 @@
 {
   "name": "@beligh/about-me",
-  "version": "1.4.0",
+  "version": "1.5.0",
   "description": "A little package the prints some about me information",
   "main": "index.js",
   "dependencies": {
