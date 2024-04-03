@@ -18,11 +18,14 @@ const cardOptions = {
     titleAlignment: 'center'
 };
 
-const content = `${b("Social links")}
+const content = `
+${b("Social links")}
 
 ${g("Twitter")}            ${y("https://twitter.com/belighpro")}
 ${g("GitHub")}             ${y("https://github.com/beligh-hamdi")}
 ${g("LinkedIn")}           ${y("https://linkedin.com/in/beligh")}
+
+`
 
 const slidesContent = ``;
 
